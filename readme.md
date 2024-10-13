@@ -80,3 +80,12 @@ history
 
 Contribuindo
 Sinta-se à vontade para contribuir com o projeto, enviando pull requests ou sugestões. Este projeto é uma ótima oportunidade para aprender mais sobre a linguagem Go e o desenvolvimento de interfaces de linha de comando.
+
+```
+* ## 📸 Project Pictures
+<div>
+<p align="center">
+  <img src="./fotos_do_projeto/inicio.png.jpg" width=20%>
+  <img src="./fotos_do_projeto/help.png.jpg" width=20%>
+  </p>
+</div>

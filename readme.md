@@ -77,16 +77,6 @@ clear
 history
 Contribuindo
 Sinta-se à vontade para contribuir com o projeto, enviando pull requests ou sugestões. Este projeto é uma ótima oportunidade para aprender mais sobre a linguagem Go e o desenvolvimento de interfaces de linha de comando.
-
-
-markdown
-Copiar código
-
-### Observações
-1. **Seção de Imagens**: Como suas imagens estão no diretório `./fotos_do_projeto/`, o código acima presume que estão no formato `.jpg`. Certifique-se de que os arquivos de imagem tenham a extensão correta. 
-2. **Imagens Centradas e Alinhadas**: As imagens aparecerão lado a lado em telas largas e uma abaixo da outra em telas menores, facilitando a visualização.
-  
-O README está agora completo e pronto para uso!
 ````
 📸 Imagens do Projeto
 <p align="center"> <img src="./fotos_do_projeto/inicio.png.jpg" width="50%"> <img src="./fotos_do_projeto/help.png.jpg" width="50%"> </p>

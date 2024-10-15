@@ -1,6 +1,4 @@
-# Desenvolvido com 💻 e Go!
-
-Esse README fornece uma visão geral das funcionalidades, instruções de instalação e exemplos de uso do terminal customizado. Ele também inclui uma seção de contribuição e uma licença genérica, que você pode adaptar conforme necessário.
+ #  Desenvolvido com 💻 e Go!
 
 # Golang Terminal
 
@@ -77,15 +75,8 @@ clear
 
 # Exibe o histórico de comandos
 history
-
 Contribuindo
 Sinta-se à vontade para contribuir com o projeto, enviando pull requests ou sugestões. Este projeto é uma ótima oportunidade para aprender mais sobre a linguagem Go e o desenvolvimento de interfaces de linha de comando.
-
-```
-* ## 📸 Project Pictures
-<div>
-<p align="center">
-  <img src="./fotos_do_projeto/inicio.png.jpg" width=20%>
-  <img src="./fotos_do_projeto/help.png.jpg" width=20%>
-  </p>
-</div>
+````
+📸 Imagens do Projeto
+<p align="center"> <img src="./fotos_do_projeto/inicio.png.jpg" width="50%"> <img src="./fotos_do_projeto/help.png.jpg" width="50%"> </p>

@@ -31,7 +31,7 @@ Para compilar o terminal, você precisará ter o Go instalado. Siga os passos ab
 3. Compile o programa usando o comando:
 
     ```sh
-    go build -o golang_terminal golang_terminal.go
+    go build -o shell-terminal.exe
     ```
 
 4. Um arquivo executável chamado `golang_terminal` será criado (no Windows, ele será `golang_terminal.exe`).

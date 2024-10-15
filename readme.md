@@ -34,7 +34,7 @@ Para compilar o terminal, você precisará ter o Go instalado. Siga os passos ab
     go build -o shell-terminal.exe
     ```
 
-4. Um arquivo executável chamado `golang_terminal` será criado (no Windows, ele será `golang_terminal.exe`).
+4. Um arquivo executável chamado `shell-terminal` será criado (no Windows, ele será `shell-terminal.exe`).
 
 ## Uso
 
@@ -42,7 +42,7 @@ Após compilar o projeto, você pode executar o terminal customizado.
 
 No **Linux** ou **Mac**:
 ```sh
-./golang_terminal
+./shell-terminal
 
 ## exemplos
 
